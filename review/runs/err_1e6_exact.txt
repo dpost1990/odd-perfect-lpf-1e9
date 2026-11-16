@@ -1,0 +1,5 @@
+tables: 78498 primes <= 1000000 built in 0.0s
+M_up = 12.303691473815 (log 2.509899337174)
+real 6.09
+user 10.41
+sys 0.06

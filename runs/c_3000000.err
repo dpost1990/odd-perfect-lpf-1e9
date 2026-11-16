@@ -1,0 +1,20 @@
+tables: 216816 primes <= 3000000 built in 0.0s
+M_up = 13.282042058406 (log 2.586412901685)
+       14.70 real        52.10 user         0.21 sys
+             7929856  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+                4425  page reclaims
+                   1  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   0  signals received
+                   4  voluntary context switches
+               24233  involuntary context switches
+        275617549413  instructions retired
+        157986292566  cycles elapsed
+             7242112  peak memory footprint

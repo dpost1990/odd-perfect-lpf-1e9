@@ -1,0 +1,25 @@
+RESULT B=1000000000 k=2/1 mode=odd nodes=7881 rows_computed=4098 rows_cached=45 rowtime=37005.2s total=37018.0s solutions=0
+[replay] B=1000000000 k=2 odd=True
+[replay] M_up = 18.454845971306
+[replay] rows: 4143 primes, 20677 sigma factorizations verified exactly
+[replay] OK: 7881 nodes, 27936 log lines matched, solutions=[]
+
+[big] B=1000000000: 50847533 odd primes (4s)
+[big] p=3 ok=True recorded_orders=700163 adm=50 766s
+[big] p=7 ok=True recorded_orders=692759 adm=21 698s
+[big] p=13 ok=True recorded_orders=694077 adm=23 681s
+[big] p=262209281 ok=True recorded_orders=687222 adm=2 658s
+[big] DONE mismatches=0
+
+[big] B=1000000000: 50847533 odd primes (3s)
+[big] p=13241 ok=True recorded_orders=687492 adm=4 572s
+[big] p=13537 ok=True recorded_orders=687404 adm=5 569s
+[big] p=14843 ok=True recorded_orders=687412 adm=5 573s
+[big] p=22807 ok=True recorded_orders=687474 adm=4 571s
+[big] p=29803 ok=True recorded_orders=688151 adm=4 577s
+[big] p=1063483 ok=True recorded_orders=687250 adm=2 578s
+[big] p=5805529 ok=True recorded_orders=686953 adm=4 574s
+[big] p=160479461 ok=True recorded_orders=687174 adm=2 582s
+[big] DONE mismatches=0
+
+ALL_OK=True

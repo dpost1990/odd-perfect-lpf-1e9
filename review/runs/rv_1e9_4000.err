@@ -1,0 +1,2 @@
+[rowverify] B=1000000000 rows 4000..4142 of 4143, 50847533 odd primes, 6 threads (0.2s)
+[rowverify] streaming done: 7271196729 (p,q) pairs in 812.7s (0.671 us/pair/thread)

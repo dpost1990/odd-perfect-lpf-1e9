@@ -1,0 +1,20 @@
+[rowverify] B=100000000 rows 0..1624 of 1625, 5761454 odd primes, 2 threads (0.0s)
+[rowverify] streaming done: 9362357294 (p,q) pairs in 3055.3s (0.653 us/pair/thread)
+     3062.71 real      5121.12 user        22.37 sys
+           176947200  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+              608880  page reclaims
+                   4  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   0  signals received
+                 188  voluntary context switches
+             3129131  involuntary context switches
+      17236284273770  instructions retired
+      15103861003119  cycles elapsed
+           277709472  peak memory footprint

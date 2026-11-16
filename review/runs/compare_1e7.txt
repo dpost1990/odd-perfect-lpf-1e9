@@ -1,0 +1,10 @@
+ROWS_SAME
+LOG_SAME
+LOG_SAME_AS_AUTHOR
+ROWS_SAME_AS_AUTHOR
+real 112.95
+user 205.17
+RESULT B=10000000 k=2/1 mode=odd nodes=1276 rows_computed=665 rows_cached=0 rowtime=112.8s total=112.9s solutions=0
+real 134.59
+user 244.54
+RESULT B=10000000 k=2/1 mode=odd nodes=1276 rows_computed=665 rows_cached=0 rowtime=134.4s total=134.6s solutions=0

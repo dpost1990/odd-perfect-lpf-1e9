@@ -1,0 +1,6 @@
+[tree] B=100000000  M (independent) <= 16.404349304377  from 5761454 odd primes
+[tree] rows: 1625 primes, 7917 factorizations re-multiplied and primality-checked
+[tree] log: 10675 event lines, # END nodes=3097 solutions=0
+[tree] stats: {'IX_nodes': 1216, 'R_nodes': 1805, 'R_nodes_silent': 73, 'leaf_LB': 75, 'leaf_UB': 1, 'nodes': 3097, 'rej_J1': 2, 'rej_J2': 669, 'rej_J3': 7503}
+[tree] OK: errors=0
+nice -n 10 $PY tree_check.py 100000000 $L/rows_100000000.txt    0.42s user 0.02s system 97% cpu 0.455 total

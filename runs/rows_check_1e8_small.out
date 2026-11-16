@@ -1,0 +1,19 @@
+[rows_check] B=100000000: 5761454 odd primes, q-1 factored in 28.2s
+[rows_check] 1/167 p=3 ok=True orders=5543546 candidates=61 adm=49 32.2s
+[rows_check] 11/167 p=37 ok=True orders=5556269 candidates=13 adm=13 31.6s
+[rows_check] 21/167 p=79 ok=True orders=5554126 candidates=14 adm=14 31.7s
+[rows_check] 31/167 p=131 ok=True orders=5553948 candidates=10 adm=9 29.0s
+[rows_check] 41/167 p=181 ok=True orders=5555201 candidates=13 adm=12 29.1s
+[rows_check] 51/167 p=239 ok=True orders=5554662 candidates=10 adm=7 29.5s
+[rows_check] 61/167 p=293 ok=True orders=5554101 candidates=10 adm=10 26.7s
+[rows_check] 71/167 p=359 ok=True orders=5553972 candidates=9 adm=8 26.5s
+[rows_check] 81/167 p=421 ok=True orders=5555245 candidates=10 adm=9 28.2s
+[rows_check] 91/167 p=479 ok=True orders=5554594 candidates=7 adm=5 27.3s
+[rows_check] 101/167 p=557 ok=True orders=5554215 candidates=9 adm=6 28.4s
+[rows_check] 111/167 p=613 ok=True orders=5554995 candidates=8 adm=8 26.5s
+[rows_check] 121/167 p=673 ok=True orders=5554345 candidates=8 adm=7 24.5s
+[rows_check] 131/167 p=743 ok=True orders=5555159 candidates=7 adm=5 26.8s
+[rows_check] 141/167 p=821 ok=True orders=5554573 candidates=5 adm=5 24.8s
+[rows_check] 151/167 p=881 ok=True orders=5554026 candidates=9 adm=9 24.4s
+[rows_check] 161/167 p=953 ok=True orders=5554433 candidates=7 adm=7 25.4s
+[rows_check] DONE 167 rows checked, mismatches=0

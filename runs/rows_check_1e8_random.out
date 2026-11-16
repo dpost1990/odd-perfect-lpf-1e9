@@ -1,0 +1,8 @@
+[rows_check] B=100000000: 5761454 odd primes, q-1 factored in 27.9s
+[rows_check] 1/120 p=1033 ok=True orders=5554319 candidates=6 adm=4 33.6s
+[rows_check] 11/120 p=2383 ok=True orders=5554610 candidates=6 adm=6 32.6s
+[rows_check] 21/120 p=3371 ok=True orders=5554555 candidates=6 adm=6 32.8s
+[rows_check] 31/120 p=5261 ok=True orders=5554601 candidates=4 adm=4 29.2s
+[rows_check] 41/120 p=6323 ok=True orders=5554649 candidates=5 adm=5 30.7s
+[rows_check] 51/120 p=7759 ok=True orders=5554805 candidates=6 adm=5 29.4s
+[rows_check] STOPPED early to free CPU for the 1e9 sample; all rows above checked

@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+check-out/
+lpf
+review/lpf_exact
+review/rowverify
+review/mup_check
+review/rv_test
+review/xf_test
+cycfac
+cache_l*.json
+.DS_Store

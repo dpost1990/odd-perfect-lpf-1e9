@@ -1,0 +1,6 @@
+[big] B=1000000000: 50847533 odd primes (4s)
+[big] p=3 ok=True recorded_orders=700163 adm=50 766s
+[big] p=7 ok=True recorded_orders=692759 adm=21 698s
+[big] p=13 ok=True recorded_orders=694077 adm=23 681s
+[big] p=262209281 ok=True recorded_orders=687222 adm=2 658s
+[big] DONE mismatches=0

@@ -1,0 +1,66 @@
+tables: 5761455 primes <= 100000000 built in 0.4s
+M_up = 16.404349304369 (log 2.797546501156)
+[31s] nodes=53 rows=35(+0 cached) rowtime=30s depth=6
+[62s] nodes=138 rows=72(+0 cached) rowtime=61s depth=4
+[92s] nodes=182 rows=109(+0 cached) rowtime=92s depth=5
+[123s] nodes=227 rows=144(+0 cached) rowtime=122s depth=5
+[153s] nodes=308 rows=180(+0 cached) rowtime=152s depth=4
+[183s] nodes=367 rows=217(+0 cached) rowtime=182s depth=5
+[213s] nodes=401 rows=250(+0 cached) rowtime=212s depth=3
+[244s] nodes=481 rows=284(+0 cached) rowtime=243s depth=20
+[275s] nodes=547 rows=319(+0 cached) rowtime=274s depth=40
+[305s] nodes=620 rows=355(+0 cached) rowtime=304s depth=71
+[336s] nodes=699 rows=391(+0 cached) rowtime=335s depth=106
+[366s] nodes=762 rows=425(+0 cached) rowtime=365s depth=132
+[396s] nodes=835 rows=461(+0 cached) rowtime=395s depth=160
+[427s] nodes=909 rows=497(+0 cached) rowtime=426s depth=194
+[457s] nodes=976 rows=532(+0 cached) rowtime=456s depth=225
+[487s] nodes=1040 rows=568(+0 cached) rowtime=486s depth=252
+[517s] nodes=1110 rows=603(+0 cached) rowtime=517s depth=284
+[548s] nodes=1178 rows=638(+0 cached) rowtime=547s depth=316
+[578s] nodes=1245 rows=672(+0 cached) rowtime=577s depth=346
+[609s] nodes=1311 rows=705(+0 cached) rowtime=608s depth=377
+[639s] nodes=1379 rows=740(+0 cached) rowtime=638s depth=409
+[670s] nodes=1442 rows=775(+0 cached) rowtime=669s depth=436
+[700s] nodes=1513 rows=810(+0 cached) rowtime=699s depth=469
+[731s] nodes=1583 rows=845(+0 cached) rowtime=730s depth=501
+[762s] nodes=1653 rows=880(+0 cached) rowtime=761s depth=535
+[792s] nodes=1723 rows=916(+0 cached) rowtime=791s depth=568
+[822s] nodes=1794 rows=953(+0 cached) rowtime=821s depth=602
+[853s] nodes=1873 rows=990(+0 cached) rowtime=852s depth=640
+[884s] nodes=1943 rows=1027(+0 cached) rowtime=883s depth=671
+[915s] nodes=2014 rows=1062(+0 cached) rowtime=914s depth=704
+[945s] nodes=2082 rows=1096(+0 cached) rowtime=944s depth=737
+[975s] nodes=2150 rows=1131(+0 cached) rowtime=974s depth=770
+[1006s] nodes=2215 rows=1165(+0 cached) rowtime=1004s depth=801
+[1036s] nodes=2280 rows=1199(+0 cached) rowtime=1035s depth=832
+[1066s] nodes=2343 rows=1233(+0 cached) rowtime=1065s depth=861
+[1096s] nodes=2402 rows=1266(+0 cached) rowtime=1095s depth=887
+[1126s] nodes=2466 rows=1299(+0 cached) rowtime=1125s depth=918
+[1157s] nodes=2531 rows=1333(+0 cached) rowtime=1156s depth=949
+[1187s] nodes=2595 rows=1366(+0 cached) rowtime=1186s depth=980
+[1218s] nodes=2667 rows=1402(+0 cached) rowtime=1217s depth=1014
+[1248s] nodes=2742 rows=1440(+0 cached) rowtime=1247s depth=1049
+[1279s] nodes=2818 rows=1479(+0 cached) rowtime=1278s depth=1084
+[1310s] nodes=2891 rows=1517(+0 cached) rowtime=1309s depth=1118
+[1340s] nodes=2963 rows=1554(+0 cached) rowtime=1339s depth=1153
+[1371s] nodes=3035 rows=1591(+0 cached) rowtime=1370s depth=1188
+[1402s] nodes=3097 rows=1625(+0 cached) rowtime=1400s depth=1216
+     1401.73 real      6781.03 user        64.47 sys
+            71647232  maximum resident set size
+                   0  average shared memory size
+                   0  average unshared data size
+                   0  average unshared stack size
+             1171039  page reclaims
+                   2  page faults
+                   0  swaps
+                   0  block input operations
+                   0  block output operations
+                   0  messages sent
+                   0  messages received
+                   0  signals received
+                1351  voluntary context switches
+            10242253  involuntary context switches
+      33415607988219  instructions retired
+      20054325357041  cycles elapsed
+            79233456  peak memory footprint

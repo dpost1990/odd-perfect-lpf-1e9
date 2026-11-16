@@ -1,0 +1,1 @@
+RESULT B=1000000 k=2/1 mode=odd nodes=562 rows_computed=290 rows_cached=0 rowtime=5.3s total=5.3s solutions=0

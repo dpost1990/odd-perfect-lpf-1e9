@@ -1,0 +1,4 @@
+[replay] B=1000000000 k=2 odd=True
+[replay] M_up = 18.454845971306
+[replay] rows: 4143 primes, 20677 sigma factorizations verified exactly
+[replay] OK: 7881 nodes, 27936 log lines matched, solutions=[]

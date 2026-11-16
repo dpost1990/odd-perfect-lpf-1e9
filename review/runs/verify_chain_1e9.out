@@ -1,0 +1,27 @@
+== chain start Sun Nov 15 03:40:44 CET 2026
+RESULT B=1000000000 k=2/1 mode=odd nodes=7881 rows_computed=4098 rows_cached=45 rowtime=37005.2s total=37018.0s solutions=0
+3389 UB
+# END nodes=7881 solutions=0
+48980c9b2d6ab6fc920f9dc9a7d74abfba3eade85f52554977e115ab6b8e340b  ../lpf/runs/rows_1000000000.txt
+a2ac58d66dd711e9b4d0c44711a616ee680956d1e8f2b1d3c1b693d9507ab542  ../lpf/runs/c_1000000000.log
+== rowverify start Sun Nov 15 03:40:44 CET 2026
+RESULT rows=400 mismatching_rows=0 pairs=20339011622 kept_entries=17174303 total=2221.3s
+RESULT rows=400 mismatching_rows=0 pairs=20339011854 kept_entries=18203159 total=2243.4s
+RESULT rows=400 mismatching_rows=0 pairs=20339011858 kept_entries=17999992 total=2239.8s
+RESULT rows=400 mismatching_rows=0 pairs=20339011866 kept_entries=17719654 total=2240.4s
+RESULT rows=400 mismatching_rows=0 pairs=20339011838 kept_entries=17588712 total=2239.8s
+RESULT rows=400 mismatching_rows=0 pairs=20339011839 kept_entries=17540719 total=2243.0s
+RESULT rows=400 mismatching_rows=0 pairs=20339011832 kept_entries=17386209 total=2261.0s
+RESULT rows=400 mismatching_rows=0 pairs=20339011847 kept_entries=17315760 total=2242.9s
+RESULT rows=400 mismatching_rows=0 pairs=20339011895 kept_entries=19271478 total=2237.8s
+RESULT rows=143 mismatching_rows=0 pairs=7271196729 kept_entries=6119163 total=814.5s
+RESULT rows=400 mismatching_rows=0 pairs=20339011900 kept_entries=18550148 total=2238.5s
+4143
+rows in file: 4143
+== tree_check start Sun Nov 15 10:07:47 CET 2026
+[tree] B=1000000000  M (independent) <= 18.454845971372  from 50847533 odd primes
+[tree] rows: 4143 primes, 20677 factorizations re-multiplied and primality-checked
+[tree] log: 27936 event lines, # END nodes=7881 solutions=0
+[tree] stats: {'IX_nodes': 3389, 'R_nodes': 4390, 'R_nodes_silent': 97, 'leaf_LB': 101, 'leaf_UB': 1, 'nodes': 7881, 'rej_J1': 2, 'rej_J2': 921, 'rej_J3': 19954}
+[tree] OK: errors=0
+== chain end Sun Nov 15 10:07:49 CET 2026
